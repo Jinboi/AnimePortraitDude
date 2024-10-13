@@ -1,6 +1,7 @@
 # AnimePortraitDude
 
-###Game Plan
+# Game Plan
+
 Your Complete Stack with Azure:
 Front-End: Razor Views + Bootstrap
 Back-End: ASP.NET Core MVC + Entity Framework
