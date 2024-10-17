@@ -2,11 +2,20 @@
 
 # Game Plan
 
-Your Complete Stack with Azure:
-Front-End: Razor Views + Bootstrap
-Back-End: ASP.NET Core MVC + Entity Framework
+In your setup:
+
+Front-End: Blazor + Bootstrap
+
+Back-End: ASP.NET Core + Entity Framework
+
 Database: MySQL (hosted on Azure Database for MySQL)
-Hosting: Azure App Service for deploying your web application
-Storage (optional): Azure Blob Storage for file storage
-Authentication (optional): Azure Active Directory for user authentication
-CI/CD (optional): Azure DevOps Pipelines or GitHub Actions for automatic deployment
+
+Hosting: Azure App Service
+
+Storage (optional): Azure Blob Storage
+
+Authentication (optional): Azure Active Directory
+
+CI/CD (optional): Azure DevOps Pipelines or GitHub Actions
+
+Updated as I'll be using Blazor 
